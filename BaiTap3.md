@@ -96,6 +96,9 @@ YÊU CẦU:
   ![image](https://github.com/user-attachments/assets/c77c224a-ed02-4645-b5c8-09cc569111fd)
 
 
+#**4. Tạo diagram mô tả các PK, FK của db.**
+![image](https://github.com/user-attachments/assets/43bbf1fb-634c-4cf6-9d08-b7fecfcb4990)
+
 
 
 
